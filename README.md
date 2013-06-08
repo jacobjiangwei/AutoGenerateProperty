@@ -6,6 +6,8 @@ Auto Generate Property code for iOS/Mac with ARC +xcode 4.4+ benefits
 
 ![github](http://cc.cocimg.com/bbs/attachment/Fid_19/19_652_cf4327c6b1a8337.png "github")  
 
+Download here <br>https://github.com/jacobjiangwei/AutoGenerateProperty/blob/master/AutoGeneratePropertyCode.zip<br/>
+
 input type , such as : NSString ,NSDate ,NSDictionary , then "enter "
 
 input property name , such as "name", then enter
